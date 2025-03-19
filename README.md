@@ -1,1 +1,1 @@
-![COver]('cover.png')
+![Cover]('/cover.png')
